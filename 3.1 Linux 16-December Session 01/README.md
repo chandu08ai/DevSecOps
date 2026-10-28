@@ -39,5 +39,13 @@ Process Change:
 - Teachers --> IT Management
 
 
+**Waterfall:**
+- Requirements --> Phase-1
+- Once you are in Phase-2 --> you can't go back and change the requirements
+- 6 months for development --> Testing and Deployment
+- 100 defects --> 10 invalid defects
+- 50 defects --> 6 invalid defects
+- 
+
 
 
