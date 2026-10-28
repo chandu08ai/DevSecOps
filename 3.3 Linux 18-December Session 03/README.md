@@ -21,7 +21,7 @@ sudo su - ==> root access, lands in root user home directory i.e. /root
 
 Commands in Linux: 
 
-uname:
+**uname:**
 - prints the kernel name
 - EX:
   - Linux
@@ -33,10 +33,74 @@ uname:
 - \- ==> we can give single char
 - -- ==> we need to give word
 
+
 / --> root of the server
 
 
-  
+**ls:**
+- list the sub directories
+
+ls -l: 
+- long listing format with more details 
+
+ls -lr: 
+- reverse alphabatical order
+
+ls -lt: 
+- new files on top
+
+ls -ltr: 
+- old files on top
+
+ls -ltrh: 
+- human readable
+
+ls -la: 
+- display all files including hidden files and folders
+
+drwx------ ==> d means directory
+-rw-r--r-- ==> - means file 
+lrw-r--r-- ==> l Link files 
+
+**touch:**
+- to create empty file
+- touch <file-name>
+- EX:
+  - touch devops.txt
+
+
+**cat:**
+- cat > devops.txt ==> enter the text, once done Enter and press ctrl+d
+- cat devops.txt ==> to display the text in the file
+- cat >> devops.txt ==> append, adds to the current text
+- \> ==> replaces the existing text with new text
+- \>> ==> append, adds to the current text
+
+
+**mkdir:**
+- Creates directory
+- mkdir <name>
+
+**rmdir:**
+- removes only empty directory
+- rmdir devops/
+
+**rm -r:**
+- rm -r devops
+- \-r means recursively delete everything inside devops
+
+**rm:**
+- rm devops.txt --> deletes the file 
+
+
+cp <source-file> <destination>
+- cp DevSecOps.txt devops
+- copying DevSecOps.txt file to devops folder
+
+
+
+
+
 
 
 
