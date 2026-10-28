@@ -7,6 +7,9 @@ Relative path:
 - daws-82s/daws-82s.pem --> Relative path
 
 $ --> denotes normal user 
+
 sudo su --> root access 
+
 # --> denotes admin user 
+
 
