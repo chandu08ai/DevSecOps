@@ -107,11 +107,35 @@ cp <source-file> <destination>
 - curl <URL> -o <path> --> downloads the file with name given
 
 
+
+
+**Piping:** 
+
+
+**grep:** 
+- grep <word-to-search> <file>
+- EX:
+  - grep ec2-user passwd
+
+- Piping with grep:
+  - cat passwd | grep ec2-user
+  - | ==> pipe
+
+
+**cut:**
 https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md
-/ ==> seperator/delimiter/fragments
+/ ==> **seperator/delimiter/fragments**
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f1
+- https:
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f2
+- 
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f3
+- github.com
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f4
+- chandu08ai
 
 
-Piping: 
+**awk:**
 - 
 
 
