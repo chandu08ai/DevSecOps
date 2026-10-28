@@ -154,6 +154,25 @@ How can i get all the users in Linux Server?
 <img width="748" height="635" alt="image" src="https://github.com/user-attachments/assets/1e403b2f-9b8c-4eaa-bc8f-835617347c77" />
 
 
+**head:**
+- head passwd --> top 10 lines from top
+- cat passwd | head -n 3
+- head -n 3 passwd
+
+**tail:**
+- tail passwd --> last 10 lines from bottom
+- tail -n 4 passwd --> last 4 lines from bottom
+
+4-10 lines: 
+- head -n 10 passwd | tail -n 7
+
+
+**find:**
+- find <which-location> -name "<file-name>"
+- find / -name "passwd"
+
+
+
 
 
 
