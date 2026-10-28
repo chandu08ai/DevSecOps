@@ -8,13 +8,13 @@ Relative path:
 
 $ --> denotes normal user 
 
-sudo su --> root access in the current user folder
+sudo su ==> root access in the current user folder
 
 \# --> denotes admin/root user 
 
 /home/<user-name>
 
-sudo su - --> root access, lands in root user home directory i.e. /root
+sudo su - ==> root access, lands in root user home directory i.e. /root
 
 /root --> root user home folder 
 
