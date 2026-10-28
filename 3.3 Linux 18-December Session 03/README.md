@@ -123,7 +123,6 @@ cp <source-file> <destination>
 
 
 **cut:**
-
 https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md
 / ==> **seperator/delimiter/fragments**
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f1
