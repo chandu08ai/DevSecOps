@@ -10,7 +10,7 @@ $ --> denotes normal user
 
 sudo su --> root access in the current user folder
 
-# --> denotes admin/root user 
+\# --> denotes admin/root user 
 
 /home/<user-name>
 
@@ -30,7 +30,7 @@ uname:
 
 
 <command-name> <options> <inputs>
-- - ==> we can give single char
+- \- ==> we can give single char
 - -- ==> we need to give word
 
 / --> root of the server
