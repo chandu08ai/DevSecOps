@@ -170,6 +170,7 @@ How can i get all the users in Linux Server?
 **find:**
 - find <which-location> -name "<file-name>"
 - find / -name "passwd"
+- find / type -d -name "ec2-user"
 
 
 
