@@ -90,13 +90,19 @@ lrw-r--r-- ==> l Link files
 - \-r means recursively delete everything inside devops
 
 **rm:**
-- rm devops.txt --> deletes the file 
+- rm devops.txt --> deletes the file
+
+**rm -rf**: 
+- rm -rf Devops.txt --> removes the file forcefully, even when the file is open 
 
 
 cp <source-file> <destination>
 - cp DevSecOps.txt devops
 - copying DevSecOps.txt file to devops folder
 
+
+**curl and wget:**
+- 
 
 
 
