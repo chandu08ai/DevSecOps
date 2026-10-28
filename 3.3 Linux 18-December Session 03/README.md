@@ -131,7 +131,7 @@ echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/R
 
 
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f2
-- 
+- \
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f3
 - github.com
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f4
