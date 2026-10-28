@@ -102,6 +102,16 @@ cp <source-file> <destination>
 
 
 **curl and wget:**
+- wget <URL> --> downloads the file
+- curl <URL> --> Shows the content on the screen 
+- curl <URL> -o <path> --> downloads the file with name given
+
+
+
+/ ==> seperator/delimiter/fragments
+
+
+Piping: 
 - 
 
 
