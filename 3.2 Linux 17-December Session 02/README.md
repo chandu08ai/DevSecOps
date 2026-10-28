@@ -32,6 +32,7 @@ browser: --> client software
 
 
 devops-practice --> AMI --> Amazon Machine Image --> ISO 
+
 .iso --> it will create entire operating system --> C:/Windows 
 
 Redhat Enterprise Linux == Centos == Amazon Enterprise Linux == Fedora 
