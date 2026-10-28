@@ -1,4 +1,5 @@
 What is Computer? 
+
 What is Client Server Architecture? 
 
 To buy a Phone, Computer, etc. we check
