@@ -66,7 +66,14 @@ Number of tests are increased
   Agile --> 30 times testing 
 
 **DevOps:**
-- 
+- Modules --> Signup, Login, Menu, Order, Shipping, Delivery, Payments
+Signup: 
+- DAY-1 --> 100 lines of code --> enter your first name, enter your last name
+- Deploy this 100 lines --> test this 100 lines
+- 3 defects found --> Co-operation, Co-ordination, Collaboration between teams
+- DAY-10 --> we should deploy and test everything
+
+
 
 
 
