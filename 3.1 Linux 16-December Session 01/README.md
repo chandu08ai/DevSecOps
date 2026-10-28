@@ -73,7 +73,35 @@ Signup:
 - 3 defects found --> Co-operation, Co-ordination, Collaboration between teams
 - DAY-10 --> we should deploy and test everything
 
+DevOps: 
+- DevOps is a process of building, testing, and releasing the code on the same day when developer writes something. Through this process we can achieve collaboration between teams, faster releases and less defects
+
+Speed and Accuracy 
+
+DEV, PROD
+DEV, QA, PROD
+DEV, QA, UAT, PRE-PROD, PROD
+DEV, QA, UAT, PERF, SECURITY, PRE-PROD, PROD
+
+**Linux VS Windows:**
+
+Windows: 
+- We need to restart sometimes
+- Too many graphics --> Time to load
+- Resource consumption
+- Not that much secure
+- Costly
+- Not Opensource
+
+Linux: 
+- It can run for years 
+- No graphics --> Super Performance
+- Less resource consumption
+- Secure
+- Free
+- Opensource
 
 
+Server Creation, Linux Commands, Editors, User creation, Install Softwares, Service management 
 
 
