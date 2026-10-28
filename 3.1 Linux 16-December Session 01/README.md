@@ -45,6 +45,27 @@ Process Change:
 - 6 months for development --> Testing and Deployment
 - 100 defects --> 10 invalid defects
 - 50 defects --> 6 invalid defects
+
+**Agile:**
+- Requirement Analysis
+- Planning
+- Design --> General requirements to technical requirements
+- Implementation
+- Testing
+- Deployement
+- Maintainance
+
+Modules --> Signup, Login, Menu, Order, Shipping, Delivery, Payments
+- Signup Module --> developed in 1 month
+- 2 weeks for development, 2 weeks for testing and deployment
+- development is serious from Day-1
+- 20 defects --> 5 invalid defects
+
+Number of tests are increased
+  Waterfall --> 10 times testing 
+  Agile --> 30 times testing 
+
+**DevOps:**
 - 
 
 
