@@ -131,7 +131,7 @@ echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/R
 
 
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f2
--  /
+- 
 
 echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | cut -d "/" -f3
 - github.com
@@ -141,7 +141,18 @@ echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/R
 
 
 **awk:**
-- 
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | awk -F "/" '{print $1F}'
+- https:
+
+echo "https://github.com/chandu08ai/DevSecOps/3.3 Linux 18-December Session 03/README.md" | awk -F "/" '{print $NF}'
+- README.md
+
+
+How can i get all the users in Linux Server? 
+- awk -F ":" '{print $1F}' passwd
+- <img width="747" height="642" alt="image" src="https://github.com/user-attachments/assets/89d29257-dde7-4fcc-bc1b-7f8cd9b98ec4" />
+<img width="748" height="635" alt="image" src="https://github.com/user-attachments/assets/1e403b2f-9b8c-4eaa-bc8f-835617347c77" />
+
 
 
 
